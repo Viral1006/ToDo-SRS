@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.13.0"
+  }
+}
